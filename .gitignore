@@ -1,6 +1,8 @@
 
 **/settings/Mainnet.toml
 **/settings/Testnet.toml
+**/settings/Devnet.toml
+
 .cache/**
 history.txt
 
